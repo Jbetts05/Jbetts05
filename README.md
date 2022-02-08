@@ -11,7 +11,7 @@ I am a recent graduate hire at Microsoft and I'm currently learning all things D
 ### 🤝 Connect with me:
 
 💬 <b> feel free to reach out on LinkedIn! </b>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/josh-betts//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Josh Betts | LinkedIn" width="21px"/></a>
 </br>
 <!--
 ## 🌱 I'm currently learning
