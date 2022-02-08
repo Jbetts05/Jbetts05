@@ -1,20 +1,31 @@
-<div align="center">
-  <h1> Hi, I'm Josh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1 align="left" >
+Hi there, I'm Josh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h3>
+
+<h3 align="left">
+I'm a Delivery Data Scientist 📊
+</h2> 
+
+I am a recent graduate hire at Microsoft and I'm currently learning all things Data Science! 
+
+### 🤝 Connect with me:
+
+💬 <b> feel free to reach out on LinkedIn! </b>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+</br>
+<!--
+## 🌱 I'm currently learning
+
+- 
+- 
+- 
+- 
 
 
-</div>
- 
-<b> LinkedIn </b>
-<a href="https://www.linkedin.com/in/josh-betts/">
-  <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/32521086/91335145-e97ccd80-e7c7-11ea-96eb-dc5342ba6a6b.png" />
-</a>
+## 📈 GitHub Stats 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jbetts05)](https://github.com/Jbetts05)
 
-<!---- 👋 Hi, I’m @Jbetts05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Jbetts05/Jbetts05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbetts05&layout=compact)](https://github.com/Jbetts05)
+
+-->
