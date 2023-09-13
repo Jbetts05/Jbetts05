@@ -3,7 +3,7 @@ Hi there, I'm Josh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 </h3>
 
 <h3 align="left">
-I'm a Delivery Data Scientist 📊
+I'm a Data Scientist 📊
 </h2> 
 
 I am a recent graduate hire at Microsoft and I'm currently learning all things Data Science! 
